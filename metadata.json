@@ -1,0 +1,6 @@
+{
+  "name": "A tutta Tabellina!",
+  "description": "Gioco interattivo sulle tabelline per la classe terza primaria: allenamento, sfide con i genitori, tavola pitagorica e trucchi della maestra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
